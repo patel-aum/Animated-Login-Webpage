@@ -151,7 +151,7 @@ height: 44px;
    
 }
 
-input [type="submit"]
+#btn
 {
     border:none;
     outline: none;
